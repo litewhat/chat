@@ -1,0 +1,5 @@
+flask
+flask-socketio
+jinja2
+gevent
+gunicorn
